@@ -220,4 +220,4 @@ enter one-time code from your terminal
 ![gh-auth-login-page-5](../assets/gh-auth-login-page-5.png)
 
 ## Next
-[Part 2]()
+[Part 2](https://github.com/thanabutj-lmwn/workshop-2024/blob/main/workshops/part-2.md)

@@ -367,4 +367,4 @@ As new change commited to the main branch, new workflow also was created for us 
 <!-- TODO: add closing thought -->
 
 ## Next
-[Part 3]()
+[Part 3](https://github.com/thanabutj-lmwn/workshop-2024/blob/main/workshops/part-3.md)
