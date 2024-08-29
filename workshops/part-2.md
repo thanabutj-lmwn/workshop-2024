@@ -1,7 +1,5 @@
 # CICD introduction with github action
 
-[[_TOC_]]
-
 What is CICD
 
 > "CI/CD, which stands for continuous integration and continuous delivery/deployment, aims to streamline and accelerate the software development lifecycle."

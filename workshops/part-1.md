@@ -1,7 +1,5 @@
 # Git part 1
 
-[[_TOC_]]
-
 - version control
 - share code with teammates
 

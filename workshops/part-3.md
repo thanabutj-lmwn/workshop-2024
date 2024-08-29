@@ -1,7 +1,5 @@
 # Create a website and automatically deploy with github page
 
-[[_TOC_]]
-
 We will collaborate with the team in this part
 
 - Form a 2-3 persons team
