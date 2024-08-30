@@ -4,6 +4,7 @@ We will collaborate with the team in this part
 
 - Form a 2-3 persons team
 - pick 1 person to be an repository owner
+- We will build a team website for this part
 
 ## Create a new github repository
 
@@ -107,7 +108,7 @@ You can approve change by
   - ![pr-merge-conflict](../assets/pr-merge-conflict.png)
 
 > What is merge conflicts
-<!-- TODO: update this -->
+> A "merge conflict" happens when two or more changes to a codebase or document can't be automatically combined.
 
 We have a few ways to resolve git conflicts
 

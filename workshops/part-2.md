@@ -347,8 +347,6 @@ In this case, it show success result as we just fixed the unittest.
 We can now copy and send this PR url to our teammate to have it reviewd.
 As an reviewer, you can click on `File changed` tab to see if the changes are correct.
 
-<!-- TODO: Reviwer Approve -->
-
 ![pr-file-changes](../assets/pr-file-changes.png)
 
 As right now we are working alone, let click on the `Merge pull request` button.
@@ -369,7 +367,8 @@ As new change commited to the main branch, new workflow also was created for us 
 
 ## Conclusion
 
-<!-- TODO: add closing thought -->
+- CICD can help us ensure software correctness.
+  - set automate testing on your repository will help you catch bugs earlier in the process.
 
 ## Next
 [Part 3](https://github.com/thanabutj-lmwn/workshop-2024/blob/main/workshops/part-3.md)
