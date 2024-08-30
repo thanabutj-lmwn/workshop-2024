@@ -45,6 +45,13 @@ We will start from create an small golang project
 > 
 > because it has all of the toolchains built into the language
 
+[download golang](https://go.dev/dl/)
+
+```bash
+go version
+# go version go1.xx.x darwin/arm64
+```
+
 ```bash
 # In terminal
 mkdir workshop-cicd

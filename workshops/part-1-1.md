@@ -1,21 +1,13 @@
 # Git part 1
 
-- version control
-- share code with teammates
+- git basic introduction
+- setup/connect to github
 
 ## What is Git
 
 Git is a Version control/Source control
 
 https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
-
-### important keywords
-- repository
-- change
-- commit
-- local
-- remote
-- HEAD
 
 ## Get started
 make sure to install git [download](https://git-scm.com/downloads)
@@ -51,6 +43,7 @@ hidden `.git` folder created
 ls -a
 #  .   ..   .git
 ```
+> ls -Attributes HIDDEN  // for windows powershell
 
 ## Make the working directory an git repository
 
@@ -70,6 +63,7 @@ git init
 ### The most frequent used combo
 
 ```
+# This is only an example. no need to run these
 git add .
 git commit -m "this is commit message"
 git push
@@ -129,8 +123,8 @@ you should see a new commit on the graph
 ### GIT GUI
 
 - source tree [download](https://www.sourcetreeapp.com/)
-
-- see graph on the GUI
+![sourcetreeui](../assets/sourcetree-ui.png)
+- we will use this to visualize our commits
 
 ### `push` command
 
@@ -217,5 +211,23 @@ enter one-time code from your terminal
 ![gh-auth-login-page-4](../assets/gh-auth-login-page-4.png)
 ![gh-auth-login-page-5](../assets/gh-auth-login-page-5.png)
 
+### important keywords
+- repository
+  - storage space where your project's files
+- change
+  - modification of a file in a repository
+- stage
+  - act that selecting change to a commit
+- commit
+  - collection of staged changes
+- local
+  - your computer
+- remote/origin
+  - where your local sync with
+  - can be on cloud service like github, gitlab, etc
+- HEAD
+  - current checked out branch
+  - HEAD will point to `where` we are
+
 ## Next
-[Part 2](https://github.com/thanabutj-lmwn/workshop-2024/blob/main/workshops/part-2.md)
+[Part 1-2](https://github.com/thanabutj-lmwn/workshop-2024/blob/main/workshops/part-1-2.md)
