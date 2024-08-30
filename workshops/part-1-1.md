@@ -211,7 +211,7 @@ enter one-time code from your terminal
 ![gh-auth-login-page-4](../assets/gh-auth-login-page-4.png)
 ![gh-auth-login-page-5](../assets/gh-auth-login-page-5.png)
 
-### important keywords
+## important keywords
 - repository
   - storage space where your project's files
 - change
